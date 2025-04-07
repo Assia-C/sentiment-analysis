@@ -1,0 +1,15 @@
+.git
+__pycache__/
+*.pyc
+*.log
+venv/
+.env
+*.egg-info/
+node_modules/
+tests/
+pytest_cache/
+.pytest_cache/
+.vscode/
+.idea/
+Books_10k.jsonl
+cache/

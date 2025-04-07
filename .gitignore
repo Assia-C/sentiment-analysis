@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project-related exclusions:
+cache/
+models/
+data_processing_old.py
+latency_test.py
+
