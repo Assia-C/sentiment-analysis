@@ -2,7 +2,7 @@
 
 This project implements a sentiment analysis classifier to determine the sentiment (positive, negative or neutral) of book reviews from the 'Books_10k.jsonl' dataset. It uses NLP techniques, including text embedding generation with Sentence Transformers and a tuned and trained XGBoost classifier. This project also includes a RESTful API built with FastAPI for making predictions on new text and is using Docker for containerising and for easy setup and deployment.
 
-## Key Features
+## Key Features
 * **Sentiment Prediction:** Classifies reviews into negative, neutral or positive sentiment.
 * **Text Embeddings:** Leverages Sentence Transformers to generate dense vector representations of text.
 * **XGBoost Classifier:** Employs a high-performance gradient boosting algorithm for sentiment classification.
